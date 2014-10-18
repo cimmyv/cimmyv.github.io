@@ -15,7 +15,6 @@
 
 .main_area {
     background-image: url(cimmy.jpg);
-    animation-fill-mode: backwards;
     height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
